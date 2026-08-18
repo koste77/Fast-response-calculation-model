@@ -177,6 +177,4 @@ Different scripts generate one or more of the following file types:
 
 ## License and Citation
 
-This repository does not currently include an open-source license. Before reusing or distributing the code, or using it in public work, contact the project maintainer to confirm the applicable permissions.
-
 If this project contributes to your research, consider adding a BibTeX entry here when the related paper or formal citation information becomes available.
